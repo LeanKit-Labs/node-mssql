@@ -30,7 +30,7 @@
 		}
 	],
 	"dependencies": {
-		"tedious": "git+ssh://git@github.com:LeanKit-Labs/tedious.git#ad",
+		"tedious": "git+ssh://git@github.com:arobson/tedious.git#fix-login7-payload",
 		"generic-pool": "^2.0.4"
 	},
 	"devDependencies": {
