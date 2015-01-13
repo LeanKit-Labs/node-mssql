@@ -30,7 +30,7 @@
 		}
 	],
 	"dependencies": {
-		"tedious": "^1.7.0",
+		"tedious": "git+ssh://git@github.com:LeanKit-Labs/tedious.git#ad",
 		"generic-pool": "^2.0.4"
 	},
 	"devDependencies": {
