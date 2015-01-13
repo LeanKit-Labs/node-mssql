@@ -43,6 +43,6 @@
 	"scripts": {
 		"test": "mocha",
 		"prepublish": "coffee --compile --output ./lib ./src",
-		"install": "npm install && npm run-script prepublish && cd ./node_modules/tedious/ && npm install && npm run-script prepublish && cd ../../"
+		"install": "npm install && npm run-script prepublish"
 	}
 }
