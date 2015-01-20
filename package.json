@@ -30,7 +30,7 @@
 		}
 	],
 	"dependencies": {
-		"tedious": "arobson/tedious#fix-login7-payload",
+		"tedious": "arobson/tedious#fix-ad-login",
 		"generic-pool": "^2.0.4"
 	},
 	"devDependencies": {
